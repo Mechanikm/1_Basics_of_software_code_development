@@ -4,7 +4,7 @@ import java.util.Scanner;
 данное значение длительности в часах, минутах и секундах в следующей форме:
 ННч ММмин SSc.*/
 
-public class Task5 {
+public class Task1_5 {
 
     public static void main(String[] args) {
 
