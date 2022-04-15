@@ -16,7 +16,6 @@ public class Task3_7 {
 
             int count = 1;
 
-            System.out.flush();
             for (int i = firstNumber; i <= lastNumber; i++) {
                 System.out.print("For number " + i + " the dividers ");
 
